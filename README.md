@@ -10,6 +10,6 @@ It visualizes **sales and profit data** and highlights key business metrics.
 
 ## Screenshot:
 ![Sales Dashboard]
-(IMG-20251227-WA0001.jpg)
+(IMG-20251227-WA0000.jpg)
 ![Sales Dashboard – View 2](IMG-20251227-WA0002.jpg)
-![Sales Dashboard – View 3](IMG-20251227-WA0003.jpg)
+![Sales Dashboard – View 3](IMG-20251227-WA0001.jpg)
