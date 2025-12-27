@@ -8,5 +8,9 @@ It visualizes **sales and profit data** and highlights key business metrics.
 - Which sub-category had high sales and low sales  
 - Distribution of sales and profits across states
 
+
 ## Screenshot
-![Sales Dashboard](images/sales_dashboard_day1.png)
+![Sales Dashboard]
+(IMG-20251227-WA0001.jpg)
+![Sales Dashboard – View 2](IMG-20251227-WA0002.jpg)
+![Sales Dashboard – View 3](IMG-20251227-WA0003.jpg)
